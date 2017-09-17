@@ -1,0 +1,94 @@
+.site-header {
+  min-height: 56px;
+  width: $container-width;
+  position: fixed;
+  background-color: white;
+}
+@media (max-width: $container-width) {
+  .site-header {
+      min-height: 56px;
+      width: 95vw;
+      position: fixed;
+      background-color: white;
+
+  }
+}
+.site-header a {
+  text-decoration: none;
+}
+.site-title {
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+  img {
+    margin: 0;
+    height: 75px;
+    background-color: $brand-second-color;
+  }
+}
+.menu-list {
+  line-height: $header-thickness;
+  float: right;
+}
+.menu-link {
+  padding: 5px 10px;
+}
+
+/*
+  Responsiveness with a dropdown menu
+*/
+
+@media (min-width: $container-width) {
+  .dropbtn {
+    display: none;
+  }
+  .dropdown-content {
+    display: none;
+  }
+}
+@media (max-width: $container-width) {
+  .menu-list {
+    display: none;
+  }
+  .site-title {
+    margin-left: 10px;
+    padding-right: 0.25rem;
+  }
+  .dropbtn {
+      background-color: white;
+      color: black;
+      padding: 16px;
+      margin-top: 4px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+  }
+  .dropdown {
+      position: relative;
+      display: inline-block;
+      float: right;
+  }
+  .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      z-index: 1;
+      left: -114px;
+  }
+  .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+  }
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  .dropdown:hover .dropdown-content {
+      display: block;
+  }
+  .dropdown:hover .dropbtn {
+      background-color: #f1f1f1;
+  }
+}

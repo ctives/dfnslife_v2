@@ -1,0 +1,34 @@
+# Site Settings
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+
+# feed settings
+title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#   path:	     rss-feed.xml
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Change to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'dfns-life'
+
+# Number of posts before paginate
+paginate: 5
+paginate_path: "/page:num/"
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock

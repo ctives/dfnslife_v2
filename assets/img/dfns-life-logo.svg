@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="140mm"
+   height="80mm"
+   viewBox="0 0 140 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="dfns-life-logo.svg"
+   inkscape:export-filename="/Users/ives/Documents/projects/DFNS-Life/dfns-life-log.png"
+   inkscape:export-xdpi="20.73"
+   inkscape:export-ydpi="20.73">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 105 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="400.00001 : 105 : 1"
+       inkscape:persp3d-origin="200 : 70 : 1"
+       id="perspective4562" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#f11e22"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.94117647"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="309.55476"
+     inkscape:cy="160.54643"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="1981"
+     inkscape:window-height="1162"
+     inkscape:window-x="102"
+     inkscape:window-y="42"
+     inkscape:window-maximized="0"
+     inkscape:measure-start="140,340"
+     inkscape:measure-end="140,40">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3699" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217)">
+    <rect
+       id="rect3701"
+       width="121.35811"
+       height="49.358109"
+       x="9.3209457"
+       y="226.46596"
+       style="fill:none;stroke:#ececec;stroke-width:1.14189231;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-xdpi="20.73"
+       inkscape:export-ydpi="20.73" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.18077"
+       y="269.3147"
+       id="text4510"
+       inkscape:export-xdpi="20.73"
+       inkscape:export-ydpi="20.73"><tspan
+         sodipodi:role="line"
+         id="tspan4508"
+         x="12.18077"
+         y="269.3147"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:0;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';letter-spacing:-2.77018762px;fill:#ffffff;stroke-width:0.26458332">DFNS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.045574"
+       y="289.32721"
+       id="text4522"
+       inkscape:export-xdpi="20.73"
+       inkscape:export-ydpi="20.73"><tspan
+         sodipodi:role="line"
+         id="tspan4520"
+         x="43.045574"
+         y="289.32721"
+         style="letter-spacing:10.58333302px;fill:#ffffff;stroke-width:0.26458332">LIFE</tspan></text>
+  </g>
+</svg>

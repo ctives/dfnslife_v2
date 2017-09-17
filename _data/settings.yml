@@ -1,0 +1,20 @@
+title:  "DFNS Life"
+tagline: "a Jekyll theme"
+description:
+author:
+  name: "Tyler Ives"
+  twitter: dfns_life
+
+menu:
+- {name: 'Training', file: 'training.html'}
+# - {name: 'Reviews', file: 'reviews.html'}
+- {name: 'Legal News', file: 'legal-news.html'}
+- {name: 'Videos', file: 'videos.html'}
+- {name: 'About', file: 'about.html'}
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/dfns_life'}
+- {icon: 'instagram', link: 'https://instagram.com/dfns_life'}
+- {icon: 'envelope', link: 'mailto:tyler@dfns.life'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
