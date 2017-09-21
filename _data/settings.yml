@@ -1,9 +1,11 @@
 title:  "DFNS Life"
-tagline: "a Jekyll theme"
+tagline: "Learning to serve others and defend my life"
 description:
 author:
   name: "Tyler Ives"
   twitter: dfns_life
+
+google-ID: "UA-100958128-1"
 
 menu:
 - {name: 'Training', file: 'training.html'}
