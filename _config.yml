@@ -25,6 +25,9 @@ disqus:
 paginate: 5
 paginate_path: "/page:num/"
 
+# Google Analytics
+google_analytics: "UA-100958128-1"
+
 gems:
   - jekyll-feed
   - jekyll-sitemap

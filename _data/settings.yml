@@ -5,8 +5,6 @@ author:
   name: "Tyler Ives"
   twitter: dfns_life
 
-google-ID: "UA-100958128-1"
-
 menu:
 - {name: 'Training', file: 'training.html'}
 # - {name: 'Reviews', file: 'reviews.html'}

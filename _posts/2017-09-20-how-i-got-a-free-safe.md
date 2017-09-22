@@ -4,7 +4,7 @@ layout: post
 categories: training
 author: Tyler Ives
 image:
-    feature: sports-fitness-body-building-iron-161557.jpeg
+    feature: safe-and-workbench.jpeg
 ---
 
 <p>Part of my quest to study self-defense is training with firearms. I grew up around guns but since I moved out of my 
