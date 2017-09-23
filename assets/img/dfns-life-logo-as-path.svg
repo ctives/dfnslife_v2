@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="140mm"
+   height="80mm"
+   viewBox="0 0 140 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="dfns-life-logo-as-path.svg"
+   inkscape:export-filename="/Users/ives/Documents/projects/DFNS-Life/dfns-life-log.png"
+   inkscape:export-xdpi="20.73"
+   inkscape:export-ydpi="20.73">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 105 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="400.00001 : 105 : 1"
+       inkscape:persp3d-origin="200 : 70 : 1"
+       id="perspective4562" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#f11e22"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.94117647"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="183.05476"
+     inkscape:cy="160.54643"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text4510"
+     showgrid="true"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="1981"
+     inkscape:window-height="1162"
+     inkscape:window-x="102"
+     inkscape:window-y="42"
+     inkscape:window-maximized="0"
+     inkscape:measure-start="140,340"
+     inkscape:measure-end="140,40">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3699" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217)">
+    <path
+       style="fill:none;stroke:#ececec;stroke-width:1.14189231;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 9.3209457,226.46596 H 130.67905 v 49.35811 H 9.3209457 Z"
+       id="rect3701" />
+    <g
+       aria-label="DFNS"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4510">
+      <path
+         d="m 23.962996,269.3147 h -8.061523 v -36.31406 q 7.714258,-0.27286 9.698633,-0.27286 7.9375,0 12.575976,4.66328 4.663281,4.63848 4.663281,12.32793 0,19.59571 -18.876367,19.59571 z m -1.612304,-30.6834 v 24.80469 q 1.562695,0.14882 3.373437,0.14882 4.886523,0 7.639844,-3.54707 2.778125,-3.54707 2.778125,-9.92187 0,-11.6582 -10.839649,-11.6582 -1.041796,0 -2.951757,0.17363 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:0;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';letter-spacing:-2.77018762px;fill:#ffffff;stroke-width:0.26458332"
+         id="path4575" />
+      <path
+         d="m 52.223471,238.70571 v 8.50801 h 12.774414 v 5.48184 H 52.223471 v 16.61914 h -6.449218 v -36.33887 h 23.936523 v 5.72988 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:0;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';letter-spacing:-2.77018762px;fill:#ffffff;stroke-width:0.26458332"
+         id="path4577" />
+      <path
+         d="M 96.507775,269.81079 78.871642,246.81685 V 269.3395 H 72.67047 v -36.36367 h 3.100586 L 92.9359,254.90317 v -21.92734 h 6.201171 v 36.83496 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:0;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';letter-spacing:-2.77018762px;fill:#ffffff;stroke-width:0.26458332"
+         id="path4579" />
+      <path
+         d="m 102.09677,267.30552 2.38125,-5.77949 q 3.81992,2.6789 7.51582,2.6789 5.68027,0 5.68027,-3.96875 0,-1.86035 -1.33945,-3.54707 -1.33945,-1.68672 -5.53144,-3.77031 -4.16719,-2.1084 -5.63067,-3.44785 -1.43867,-1.36426 -2.23242,-3.22461 -0.76895,-1.86035 -0.76895,-4.11758 0,-4.2168 3.07579,-6.99492 3.10058,-2.77813 7.9375,-2.77813 6.30039,0 9.25214,2.35645 l -1.95957,5.55625 q -3.39824,-2.43086 -7.16855,-2.43086 -2.23242,0 -3.47266,1.19062 -1.21543,1.16582 -1.21543,3.05098 0,3.12539 6.92051,6.49883 3.64629,1.78594 5.25859,3.29902 1.61231,1.48828 2.45567,3.49746 0.84336,1.98438 0.84336,4.44004 0,4.41524 -3.49746,7.26778 -3.47266,2.85253 -9.32657,2.85253 -5.08496,0 -9.17773,-2.62929 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:0;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';letter-spacing:-2.77018762px;fill:#ffffff;stroke-width:0.26458332"
+         id="path4581" />
+    </g>
+    <g
+       aria-label="LIFE"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4522">
+      <path
+         d="m 44.08427,281.61192 h 1.043864 v 6.83679 h 3.756877 v 0.8785 H 44.08427 Z"
+         style="letter-spacing:10.58333302px;fill:#ffffff;stroke-width:0.26458332"
+         id="path4565" />
+      <path
+         d="m 60.558716,281.61192 h 1.043864 v 7.71529 h -1.043864 z"
+         style="letter-spacing:10.58333302px;fill:#ffffff;stroke-width:0.26458332"
+         id="path4567" />
+      <path
+         d="m 74.263306,281.61192 h 4.433837 v 0.8785 H 75.30717 v 2.27376 h 3.059244 v 0.8785 H 75.30717 v 3.68453 h -1.043864 z"
+         style="letter-spacing:10.58333302px;fill:#ffffff;stroke-width:0.26458332"
+         id="path4569" />
+      <path
+         d="m 90.944458,281.61192 h 4.878255 v 0.8785 h -3.834391 v 2.2841 h 3.674194 v 0.8785 h -3.674194 v 2.79569 h 3.927409 v 0.8785 h -4.971273 z"
+         style="letter-spacing:10.58333302px;fill:#ffffff;stroke-width:0.26458332"
+         id="path4571" />
+    </g>
+  </g>
+</svg>
