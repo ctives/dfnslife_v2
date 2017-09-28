@@ -11,9 +11,9 @@ image:
 by design because it gets heavy fast. The program is working but I wish I did not modify the prescribed numbers now.</p>
 
 <p>When I first started, I massaged some numbers because I felt they were too light. For example, I modified the bench 
-press, squat and deadlift to a number that would not make look like a newb in the gym. The problem I found later was 
-that I was not benefiting for the other lifts to help make me stronger. When I was doing, bench press I was not getting 
-the gains from doing the overhead press 2 days prior. I was too light on the overhead press to really be much help while 
+press, squat and deadlift to a number that would not make me look like a newb in the gym. The problem I found later was 
+that I was not benefiting from the complimentary lifts. When bench pressing I was not getting 
+the gains from doing the overhead press 2 days prior. I was too light on the overhead press to be much help while 
 I was struggling to finish my prescribed bench press numbers. If I did not modify the numbers, by the time the bench 
 press was getting heavy the overhead press would have also been helping my chest muscles. A similar argument could be 
 made about the deadlift and squat. My deadlift was much too light while my squat got heavy too fast.
@@ -29,12 +29,12 @@ made about the deadlift and squat. My deadlift was much too light while my squat
 </p>
  
  <p>I have cut out most of my cardio because I felt I needed the extra day to recover from the exercises. The problem 
- with that is that I have gained 5 pounds since I started. I think I will have to go into a cutting phase here soon 
- because that is a little too much fat for my liking. I also was not as lean as I wanted to be when I started.
+ with that is that I have gained 5 pounds since I started. I think I will have to go into a cutting phase soon 
+ because that is a too much fat too fast for my liking. I also was not as lean as I wanted to be when I started.
 </p>
  
  <p>Overall the program is working. I am happy with the results. It is definitely hard work. Once it got heavy, I was 
- exhausted after it workout. I would like to add some cardio soon, but I want to get my bench press a bit higher first.
+ exhausted after each workout. I would like to add some cardio soon, but I want to get my bench press a bit higher first.
 </p>
  
  
